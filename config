@@ -1,1 +1,4 @@
+vless://2bb5518a-5937-44b7-87ed-8987dddbdd19@139.59.213.120:443?security=tls&sni=ekb.eg&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#digitalocean,%20%7C%7C%20de
+vless://7e6bc431-d7b5-4664-811e-8ac2b08ad25e@139.59.209.171:443?security=tls&sni=ekb.eg&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#digitalocean,%20%7C%7C%20de
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.72.55:22224?security=tls&sni=ekb.eg&allowInsecure=1&type=ws&path=/telegram-channel-vlessconfig&encryption=none#amazon.com,%20%7C%7C%20fr
+vless://1ff9dc4a-4853-4790-a81c-13e195c957e8@ov-germany6.09vpn.com:8443?security=tls&sni=ekb.eg&allowInsecure=1&type=ws&path=/vless/&encryption=none#ovh%20%7C%7C%20de
