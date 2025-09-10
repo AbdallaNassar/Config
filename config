@@ -11,3 +11,12 @@ vmess://eyJhZGQiOiI1Ny4xMjkuMjguNjkiLCJhaWQiOiIwIiwiaG9zdCI6ImJhcmFkaWhhLmNvbSIs
 vless://0697cb92-0cbe-4a46-b345-9930353928c3@139.59.82.199:443?security=tls&sni=ekb.eg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=139.59.75.181&encryption=none#digitalocean,%20%7C%7C%20in
 vless://c728f2a2-7c96-4291-a581-dac873e8e456@159.65.119.239:443?security=tls&sni=ekb.eg&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#digitalocean,%20%7C%7C%20de
 vless://e26b0e3d-d5a8-49ed-ade7-1ca8551c830d@128.199.56.167:443?security=tls&sni=ekb.eg&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#digitalocean,%20%7C%7C%20nl
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.180.46.221:22224?security=tls&sni=ekb.eg&allowInsecure=1&type=ws&path=/telegram-channel-vlessconfig&encryption=none#amazon.com,%20%7C%7C%20de
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.4.162:22224?security=tls&sni=ekb.eg&allowInsecure=1&type=ws&path=/telegram-channel-vlessconfig&encryption=none#amazon.com,%20%7C%7C%20de
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.71.39:22224?security=tls&sni=ekb.eg&allowInsecure=1&type=ws&path=/telegram-channel-vlessconfig&encryption=none#amazon.com,%20%7C%7C%20fr
+vmess://eyJhZGQiOiI1Ny4xMjkuMjUuMjUiLCJhaWQiOiIwIiwiaG9zdCI6ImYua2hpTEVpLmNvTSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJvdmggfHwgZGUiLCJzY3kiOiJhdXRvIiwic25pIjoiZWtiLmVnIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://267da9bb-799a-4138-bd0b-412b5eefd87d@51.195.101.222:443?security=tls&sni=ekb.eg&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#ovh%20%7C%7C%20de
+vmess://eyJhZGQiOiJmYXBlbmcub3JnIiwiYWlkIjoiMCIsImhvc3QiOiJmYXBlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoib3ZoIHx8IGZyIiwic2N5IjoiYXV0byIsInNuaSI6ImVrYi5lZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJsYW1tYWxhbmQub3JnIiwiYWlkIjoiMCIsImhvc3QiOiJsYW1tYWxhbmQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoib3ZoIHx8IHVzIiwic2N5IjoiYXV0byIsInNuaSI6ImVrYi5lZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+vless://2844ed48-493d-43ca-a13e-76df8e444de0@194.4.49.217:443?security=tls&sni=ekb.eg&allowInsecure=1&type=ws&path=/fqogayws&encryption=none#pq%20%7C%7C%20fr
+vless://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443?security=tls&sni=ekb.eg&allowInsecure=1&type=ws&path=/qnbufdws&encryption=none#pq%20%7C%7C%20fr
